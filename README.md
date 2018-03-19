@@ -21,13 +21,16 @@ This app showcases the following Universal Windows Platform (UWP) features.
 
 ## Run the sample
 
-You must associate the app sample with the Store before you can run it (see instructions below). This sample also requires Visual Studio 2017 and the latest Windows Standalone SDK (version 10.0.15063.0 or above).
+You must associate the app sample with the Store before you can run it (see instructions below). 
 
 **Note**: This sample assumes you have an internet connection. Also, the platform target currently defaults to ARM, so be sure to change that to x64 or x86 if you want to test on a non-ARM device.
 
 ### Install the latest tools
 
-* [Get a free copy of the latest Visual Studio Community Edition with support for building Universal Windows apps](http://go.microsoft.com/fwlink/?LinkID=280676).
+This sample requires [Visual Studio 2017 and the latest version of the Windows 10 SDK](http://go.microsoft.com/fwlink/?LinkID=280676). You can use the free Visual Studio Community Edition to build and run Windows Universal Platform (UWP) apps. 
+
+To get the latest updates to Windows and the development tools, and to help shape their development, join 
+the [Windows Insider Program](https://insider.windows.com).
 
 ### Associate the app sample with the Store
 
