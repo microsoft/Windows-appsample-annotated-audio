@@ -4,10 +4,9 @@ sample:
   description: A mini-app sample that demonstrates audio, ink, and OneDrive data roaming scenarios.
   image: Screenshots/Playback.PNG
   generateZip: true
-  author: karler
+  author: msatranjr
   languages:
   - csharp
-  - xaml
   technologies:
   - windows
   vssolution: AnnotatedAudio.sln
