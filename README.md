@@ -2,6 +2,17 @@
   category: Navigation Data AudioVideoAndCamera NetworkingAndWebServices CustomUserInteractions Inking FilesFoldersAndLibraries 
 -->
 
+---
+topic: sample
+languages:
+- csharp
+products:
+- windows
+- uwp
+statusNotificationTargets:
+- codefirst
+---
+
 # Annotated Audio app sample
 
 A mini-app sample that demonstrates audio, ink, and OneDrive data roaming scenarios. This sample records audio while allowing the synchronized capture of ink annotations so that you can later recall what was being discussed at the time a note was taken. When playing recorded audio, ink strokes are highlighted when the recording reaches the time when the strokes were made. Tapping on an ink stroke begins audio playback from the time that stroke was made.
