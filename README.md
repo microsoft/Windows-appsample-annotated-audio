@@ -1,7 +1,3 @@
-<!--- 
-  category: Navigation Data AudioVideoAndCamera NetworkingAndWebServices CustomUserInteractions Inking FilesFoldersAndLibraries 
--->
-
 ---
 topic: sample
 languages:
