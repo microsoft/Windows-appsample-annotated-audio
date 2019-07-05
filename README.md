@@ -18,7 +18,9 @@ statusNotificationTargets:
 
 **Note** - This sample is targeted and tested for Windows 10, version 1903 (10.0; Build 18362), and Visual Studio 2019. If you prefer, you can use project properties to retarget the project(s) to Windows 10, version 1809 (10.0; Build 17763), and/or open the sample with Visual Studio 2017.
 
-A mini-app sample that demonstrates audio, ink, and OneDrive data roaming scenarios. This sample records audio while allowing the synchronized capture of ink annotations so that you can later recall what was being discussed at the time a note was taken. When playing recorded audio, ink strokes are highlighted when the recording reaches the time when the strokes were made. Tapping on an ink stroke begins audio playback from the time that stroke was made.
+A mini-app sample that demonstrates audio, ink, and OneDrive data roaming scenarios. This sample records audio while allowing the synchronized capture of ink annotations so that you can later recall what was being discussed at the time a note was taken. 
+
+When playing recorded audio, ink strokes are highlighted when the recording reaches the time when the strokes were made. Tapping on an ink stroke begins audio playback from the time that stroke was made.
 
 ![Playing back audio and highlighting strokes as they were made](Screenshots/Playback.PNG)
 
