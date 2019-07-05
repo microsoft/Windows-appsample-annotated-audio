@@ -1,5 +1,6 @@
 ---
 topic: sample
+description: "A mini-app sample that demonstrates audio, ink, and OneDrive data roaming scenarios."
 languages:
 - csharp
 products:
