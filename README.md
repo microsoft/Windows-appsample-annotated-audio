@@ -62,9 +62,11 @@ This sample uses the MVVM design pattern, where the XAML code binds to several p
 
 ### View and ViewModel
 [SessionPicker.xaml](AnnotatedAudio/View/SessionPicker.xaml#L25) and [SessionPicker.xaml.cs](AnnotatedAudio/View/SessionPicker.xaml.cs#L25)
+
 This page defines the UI for managing user sessions and is bound to the [SessionPickerViewModel](AnnotatedAudio/ViewModel/SessionPickerViewModel.cs#L25).
 
 [SessionViewer.xaml](AnnotatedAudio/View/SessionViewer.xaml#L25) and [SessionViewer.xaml.cs](AnnotatedAudio/View/SessionViewer.xaml.cs#L25). 
+
 This page defines the UI for users to record and playback sessions. It is bound to [SessionViewModel.cs](AnnotatedAudio/ViewModel/SessionViewModel.cs#L25).
 
 ### Important feature components
